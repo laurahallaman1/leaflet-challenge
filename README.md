@@ -1,2 +1,2 @@
-# leaflet-challenge-
+# leaflet-challenge
 leaflet.js
